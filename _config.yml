@@ -1,7 +1,7 @@
 name: elliottpayne
 favicon: null
 layout_spectrum: 0.349624
-typography_spectrum: 0.4507207318674773
+typography_spectrum: 0.34624
 collections:
   - index:
       path: /
@@ -34,7 +34,7 @@ color:
     - '#6B574B'
     - '#160600'
   brandStrength: 0.125
-  lightness: 0.5275695384480059
-  saturation: 0.01160573307424784
-  rhythmicContrast: 0.2332916050218046
+  lightness: 0.5625
+  saturation: 0.75
+  rhythmicContrast: 0.25
 purpose: []
