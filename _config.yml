@@ -1,9 +1,7 @@
-favicon: null
 name: elliottpayne
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.349624
+typography_spectrum: 0.4507207318674773
 collections:
   - index:
       path: /
@@ -16,25 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.01160573307424784
-  brandStrength: 0.5531074781902134
-  rhythmicContrast: 0.2332916050218046
   brandColors:
     - '#9D2D3C'
     - '#DDE4DD'
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
+  brandStrength: 0.125
   lightness: 0.5275695384480059
-typography_spectrum: 0.4507207318674773
-cta:
-  bucket: null
-  version: null
-  domain: null
-layout_spectrum: 0.349624
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+  saturation: 0.01160573307424784
+  rhythmicContrast: 0.2332916050218046
+purpose: []
