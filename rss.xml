@@ -2,13 +2,21 @@
     <channel>
         <title><![CDATA[elliottpayne]]></title>
         <description><![CDATA[elliottpayne]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/elliottpayne/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Apr 2016 18:37:27 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 07 Apr 2016 19:05:41 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/elliottpayne/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefined9ee9ef49-43d4-450c-88dd-f2f314681865/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/24aa962a-b06f-493c-9661-580cc45927a1.gif">]]></description>
+            <link>https://thegrid.ai/elliottpayne/91a6feb2-3329-428d-a6d3-907feec2a131/index.html</link>
+            <guid isPermaLink="false">91a6feb2-3329-428d-a6d3-907feec2a131</guid>
+            <pubDate>Thu, 07 Apr 2016 19:05:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Always experimenting</p>]]></description>
+            <link>https://thegrid.ai/elliottpayne/9ee9ef49-43d4-450c-88dd-f2f314681865/index.html</link>
             <guid isPermaLink="false">9ee9ef49-43d4-450c-88dd-f2f314681865</guid>
             <pubDate>Thu, 07 Apr 2016 18:37:26 GMT</pubDate>
         </item>
