@@ -1,0 +1,28 @@
+name: elliottpayne
+favicon: null
+layout_spectrum: 0.6458338303491473
+typography_spectrum: 0.4507207318674773
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.5531074781902134
+  lightness: 0.5275695384480059
+  saturation: 0.011605733074247837
+  rhythmicContrast: 0.23329160502180457
+purpose: []
