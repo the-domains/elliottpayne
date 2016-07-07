@@ -1,5 +1,7 @@
-favicon: null
-name: elliottpayne
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
@@ -18,7 +20,7 @@ collections:
       path: '/:title/'
 purpose: []
 color:
-  saturation: 0.2035446
+  saturation: 0.6868958
   brandStrength: 0
   lightness: 0.2336197
   brandColors:
@@ -27,14 +29,12 @@ color:
     - '#5480BD'
     - '#95A655'
     - '#C7E1F8'
-  rhythmicContrast: 0.415145
+  rhythmicContrast: 1
 typography_spectrum: 0.3485499
+layout_spectrum: 0.2218045
 cta:
   bucket: null
   version: null
   domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-layout_spectrum: 0.2218045
+favicon: null
+name: elliottpayne
