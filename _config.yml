@@ -1,3 +1,16 @@
+layout_spectrum: 0.8618283802643418
+typography_spectrum: 0.6377285497728735
+color:
+  saturation: 0.6594462767243385
+  brandStrength: 0.4338183617219329
+  lightness: 0.7223887129221112
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+  rhythmicContrast: 0.8854787957388908
 analytics:
   twitter: null
   google: null
@@ -19,19 +32,6 @@ collections:
     permalink:
       path: '/:title/'
 purpose: []
-color:
-  saturation: 0.6868958
-  brandStrength: 0
-  lightness: 0.2336197
-  brandColors:
-    - '#1B1C20'
-    - '#67A9F5'
-    - '#5480BD'
-    - '#95A655'
-    - '#C7E1F8'
-  rhythmicContrast: 1
-typography_spectrum: 0.3485499
-layout_spectrum: 0.2218045
 cta:
   bucket: null
   version: null
